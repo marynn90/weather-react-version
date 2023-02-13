@@ -50,6 +50,12 @@ export default function App() {
             <img src={icon} alt="weather-icon" />
           </li>
         </ul>
+        <p>
+          <a href="https://github.com/marynn90/weather-react-version/tree/main/weather-react-version">
+            Open-source
+          </a>{" "}
+          code, by Maryam Norouzi
+        </p>
       </div>
     );
   } else {
@@ -64,6 +70,12 @@ export default function App() {
           />
           <button type="submit">Search</button>
         </form>
+        <p>
+          <a href="https://github.com/marynn90/weather-react-version/tree/main/weather-react-version">
+            Open-source
+          </a>{" "}
+          code, by Maryam Norouzi
+        </p>
       </div>
     );
   }
